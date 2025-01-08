@@ -1,13 +1,13 @@
 <h1> Hello, I'm Apoorv Shamma, great to see you here!
   <a href="https://github.com/Apoorvs23"><img src="https://github.com/Apoorvs23/Apoorvs23/blob/master/gif.gif"  width="15%" align="right" alt="Memoji"/></a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
 
-* 📖 Pursuing my Master's in Applied Computing from [University of Windsor]((https://www.uwindsor.ca/graduate-studies/305/applied-computing)). 
+📖 Graduated with a Master’s in Applied Computing from the University of Windsor, achieving a GPA of 91/100.
 
-* 🧑🏻‍💻Software Engineer with two years of experience specializing in back-end development, having previously worked at Tata Consultancy Services (TCS).
+🧑🏻‍💻 Software Engineer with over two years of professional experience specializing in back-end development, previously working at Tata Consultancy Services (TCS) and completing an IT Co-op at Ground Effects Ltd. (GFX).
 
-* 💡 Always open to collaborating on projects and innovative ideas. 
+💡 Always open to collaborating on innovative projects and ideas, leveraging expertise in Java, Spring Boot, RESTful APIs, and modern frameworks like Django and ASP.NET MVC.
 
-* 💻 Seeking Full-Time Opportunities
+💻 Seeking Full-Time Opportunities in Software Development, Backend Engineering, or Full-Stack Development, where I can apply my technical expertise in cloud technologies (AWS, Azure, GCP), microservices architecture, and DevOps tools like Jenkins, GitHub Actions, and Docker to deliver impactful and scalable solutions.
 
 Find out more about me & feel free to connect with me here:
 
